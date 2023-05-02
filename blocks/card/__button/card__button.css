@@ -1,0 +1,15 @@
+.card__button {
+    width: 22px;
+    height: 19px;
+    background-image: url(../../../images/checkbox.svg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 0;
+    cursor: pointer;
+    border: none;
+  }
+
+  .card__button:hover {
+    opacity: .6;
+  }

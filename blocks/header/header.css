@@ -1,0 +1,16 @@
+.header {
+    max-width: 880px;
+    margin: 45px auto 40px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 41px;
+  }
+
+  @media  screen and (width: 320px) {
+    .header {
+      width: 100%;
+      margin-top: 28px;
+      margin-bottom: 42px;
+      row-gap: 31.6px;
+    }
+}

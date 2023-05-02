@@ -1,0 +1,12 @@
+.profile__button-image {
+    width: 10px;
+    height: 10px;
+  }
+
+  @media  screen and (width: 320px) {
+    .profile__button-image {
+        width: 7.5px;
+        height: 7.5px;
+        display: block;
+      }
+  }

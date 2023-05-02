@@ -1,0 +1,16 @@
+.profile__line {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 16px;
+    justify-items: center;
+    align-items: baseline;
+    padding: 0;
+  }
+
+  @media  screen and (width: 320px) {
+    .profile__line {
+        margin-left: 46px;
+        margin-right: 19px;
+        margin-bottom: 14px;
+      }
+  }
