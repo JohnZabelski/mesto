@@ -1,6 +1,6 @@
 .cards {
     max-width: 880px;
-    margin: 0px auto 66px;
+    margin: 0 auto 66px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(2, 1fr);
@@ -13,6 +13,5 @@
         margin: auto;
         display: flex;
         flex-direction: column;
-        row-gap: 20px;
       }
   }

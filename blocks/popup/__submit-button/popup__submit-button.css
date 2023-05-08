@@ -9,6 +9,7 @@
     border-radius: 2px;
     cursor: pointer;
     margin-top: 18px;
+    border: none;
   }
 
   .popup__submit-button:hover {
@@ -17,8 +18,8 @@
 
   @media  screen and (width: 320px) {
     .popup__submit-button {
-        width: 100%;
-        font-weight: 400;
+        width: 238px;
+        height: 46px;
         font-size: 14px;
         line-height: 17px;
         margin-top: 15px;

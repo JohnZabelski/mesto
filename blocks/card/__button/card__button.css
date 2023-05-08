@@ -2,8 +2,9 @@
     width: 22px;
     height: 19px;
     background-image: url(../../../images/checkbox.svg);
+    background-color: transparent;
     background-position: center;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     margin: 0;
     cursor: pointer;
@@ -11,5 +12,5 @@
   }
 
   .card__button:hover {
-    opacity: .6;
+    opacity: .5;
   }

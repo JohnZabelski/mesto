@@ -2,9 +2,13 @@
     width: 24px;
     height: 24px;
     cursor: pointer;
-    background-color: black;
+    background-color: transparent;
     border: 1px solid #FFFFFF;
     margin: 0;
+    background-image: url(../../../images/button-profile.svg);
+    background-repeat: no-repeat;
+    background-size: 10px;
+    background-position: center;
   }
 
   .profile__button:hover {
