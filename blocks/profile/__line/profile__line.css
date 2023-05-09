@@ -7,7 +7,7 @@
     padding: 0;
   }
 
-  @media  screen and (width: 320px) {
+  @media  screen and (max-width: 879px) {
     .profile__line {
         margin-left: 46px;
         margin-right: 19px;

@@ -1,7 +1,9 @@
 .card__parametr {
     display: flex;
     width: 246px;
-    margin: 25px 15px 21px 31px;
     align-items: baseline;
+    margin-top: 25px;
+    margin-bottom: 31px;
+    margin-left: 21px;
     justify-content: space-between;
   }
